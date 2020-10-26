@@ -244,7 +244,7 @@ $ cd /data/wwwroot/freenom/ && php run
 
 1、Fork 本仓库
 
-2、在你 Fork 的本仓库下的 `Settings` -> `Secrets` 页面追加以下几个`secret`秘密环境变量
+2、在你 Fork 的本仓库下的 `Settings` -> `Secrets` 页面追加以下几个`secret`
 
 <details>
     <summary>点我查看需要添加的具体秘密变量</summary>
@@ -331,3 +331,4 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
+...
